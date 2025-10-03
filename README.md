@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWxoe/giphy.gif" alt="Animated Dragon" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTRhMnUzbDcxaGs2Z3E4NjR6YTIyanBwcmNqaGluYWtscWxkMnRoZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvZjDnoDlMTMk/giphy.gif" alt="Animated Dragon" width="200"/>
   <h1>سلام، من آروینم! 👋</h1>
   <p>Flutter | Laravel Developer</p>
 </div>
